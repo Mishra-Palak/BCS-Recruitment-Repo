@@ -7,6 +7,6 @@ Neural network concepts are inspired by how our brain works. We can visualize an
 For the given task, I have made an NN model for implementing binary classification of data.
 
 ---
-Palak Mishra__
-Y21 BS-SDS__
+Palak Mishra<br />
+Y21 BS-SDS<br />
 210690
